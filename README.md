@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im teju, currently studying CSE at IIITDMJ <br>I fluent in  python, c and c++<br>Im learning HTML CSS and want to further use it in game development with Javascript
+Hi, I'm Teju, currently studying CSE at IIITDMJ <br>I'm fluent in python, c and c++<br>Im learning HTML CSS and want to further use it in game development with Javascript
 
 
 ## 🌐 Socials:
