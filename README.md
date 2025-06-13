@@ -1,5 +1,5 @@
 # ❤️ About Me:
-                          Hi, I'm Teju, currently studying CSE at IIITDMJ I'm fluent in python, c and c++
+                               Hi, I'm Teju, currently studying CSE at IIITDMJ I'm fluent in python, c and c++
 
 
 ## 🌐 Socials:
